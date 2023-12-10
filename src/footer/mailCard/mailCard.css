@@ -1,0 +1,59 @@
+.main-card-mail{
+    width: 25rem;
+    height: 23rem;
+    flex-shrink: 0;
+    border-radius: 20px 0px 0px 20px;
+    background: #2D2ACA;
+    position: relative;
+    margin: 0 auto;
+    margin-right: 0;
+    display: block;
+    align-items: center;
+}
+
+.title-mail{
+    padding-top:2rem;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 1.75rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 3.6px;
+    text-align: center;
+}
+
+.inputbox{
+    text-align: center;
+    margin-top: 1.5rem;
+    border-radius: 30px;
+    background: #4C49EA;
+    flex-shrink: 0;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 2.4px;
+    border: none;
+    outline:none;
+}
+    .usermail{
+        width: 20rem;
+        height: 2rem;
+    }
+
+    .textmail{
+        resize: none;
+        width: 20rem;
+        height: 11rem;
+    }
+
+.inputs{
+    text-align: center;
+}
+
+::placeholder{
+    color: #FFF;
+}

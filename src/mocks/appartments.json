@@ -1,0 +1,70 @@
+{
+  "appartments": [
+    {
+      "id": "1",
+      "street": "Calle mock 1",
+      "price": 1000,
+      "numRooms": 3,
+      "squareMeters": 40,
+      "position": "tercera planta",
+      "elevetaor": "sin ascensor",
+      "images": "mock1",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    },
+    {
+      "id": "2",
+      "street": "Calle mock 2",
+      "price": 1000,
+      "numRooms": 3,
+      "squareMeters": 40,
+      "position": "tercera planta",
+      "elevetaor": "sin ascensor",
+      "images": "mock2",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    },
+    {
+      "id": "3",
+      "street": "Calle mock 2",
+      "price": 1000,
+      "numRooms": 3,
+      "squareMeters": 40,
+      "position": "tercera planta",
+      "elevetaor": "sin ascensor",
+      "images": "mock2",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    },
+    {
+      "id": "4",
+      "street": "Calle mock 2",
+      "price": 1000,
+      "numRooms": 3,
+      "squareMeters": 40,
+      "position": "tercera planta",
+      "elevetaor": "sin ascensor",
+      "images": "mock2",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    },
+    {
+      "id": "5",
+      "street": "Calle mock 2",
+      "price": 1000,
+      "numRooms": 3,
+      "squareMeters": 40,
+      "position": "tercera planta",
+      "elevetaor": "sin ascensor",
+      "images": "mock2",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    },
+    {
+      "id": "6",
+      "street": "Calle mock 2",
+      "price": 1000,
+      "numRooms": 3,
+      "squareMeters": 40,
+      "position": "tercera planta",
+      "elevetaor": "sin ascensor",
+      "images": "mock2",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    }
+  ]
+}

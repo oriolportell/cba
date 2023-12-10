@@ -1,0 +1,62 @@
+.main-view{
+    background-color: #E9E9E9;
+    margin-top: 3.5vw;
+    text-align: center;
+}
+.card {
+    transition: 0.5s;
+    text-align: left;
+    display: flex;
+    position: relative;
+    height: 15rem;
+    width: 55rem;
+    background-color: #FFF;
+    margin: 0 auto;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  }
+  .image-style{
+    width: 40%; /* Make the image take up all the container's width */
+    height: 100%; /* Make the image take up all the container's height */
+    object-fit: cover; /* Scale the image to cover the entire container while maintaining aspect ratio */
+  }
+  .card:hover {
+    transform: scale(1.025); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+    cursor: pointer;
+  }
+
+  .card-detail-orange{
+    position: absolute;
+    width: 2%; /* Make the image take up all the container's width */
+    height: 100%; /* Make the image take up all the container's height */
+    background-color: #FF9900;
+    right: 0; /* Position the element on the left side of the viewport */
+  }
+
+  .apartment-information{
+    margin-top: 1rem;
+    margin-left: 1rem;
+  }
+  
+  .style-info{
+    padding-top: 0.5rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .price{
+    font-weight: bold;
+    font-size: large;
+  }
+  .title{
+    font-size: larger;
+    font-weight: bold;
+  }
+
+  .things{
+    display: grid;
+    grid-template-columns: auto auto auto;
+  }
+
+.carda {
+  text-decoration: none;
+  color: inherit;
+}

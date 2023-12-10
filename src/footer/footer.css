@@ -1,0 +1,30 @@
+.main-footer{
+    height: 30rem;
+    margin-top: 4rem;
+    background:  linear-gradient(0deg, #0E0C68 60%, #E9E9E9 40%);
+}
+
+.cards{
+    display: flex;
+}
+
+.informacion{
+    padding-top: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 1.6px;
+}
+    .legal{
+        
+    }
+    .privacidad{
+        margin-left: 1rem;
+    }
